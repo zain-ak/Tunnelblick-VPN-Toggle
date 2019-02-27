@@ -1,4 +1,4 @@
-<h1>Tunnelblick VPN Toggle <img src="resources/vpn-toggle.png" title="VPN Icon" width="50" height="50" /></h1> 
+<h1>Tunnelblick VPN Toggle <img src="resources/vpn-toggle.png" title="VPN Icon" width="105" height="50" /></h1> 
 
 A simple AppleScript script which toggles on/off a VPN connection through Tunnelblick. The name of the desired configuration can be added into the script and then an application package can be created to make it an icon one simply clicks on to connect/disconnect.
 
