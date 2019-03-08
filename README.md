@@ -5,5 +5,6 @@ A simple AppleScript script which toggles on/off a VPN connection through Tunnel
 **Note:** You'll want to change the ```vpn_configuration_name``` in the script to whatever name you've given your desired configuration on Tunnelblick.
 
 <h3>Instructions for saving as an application</h3>
-```File``` > ```Export``` > Choose name, location and ```File Format: Application```.
+
+```File``` > ```Export...``` > Choose name, location and ``````File Format: Application``````.
 In my case I haven't configured any other options while saving as the package runs well for me as I've described above, but feel free to play around!
